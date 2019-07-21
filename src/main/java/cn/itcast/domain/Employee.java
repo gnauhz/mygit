@@ -3,6 +3,7 @@ package cn.itcast.domain;
 public class Employee {
     private Integer empId;
 
+    private String habit;
     private String empName;
 
     private String gender;
